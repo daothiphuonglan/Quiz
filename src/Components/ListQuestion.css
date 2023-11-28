@@ -1,0 +1,14 @@
+.list_questions {
+    padding: 20px;
+}
+
+.btn-check {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(47, 195, 47);
+}
+
+.btn-check:hover {
+    background-color: rgb(116, 232, 116);
+}

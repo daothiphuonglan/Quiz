@@ -1,0 +1,35 @@
+.maincontent {
+    
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+    
+}
+
+.maincontent-left {
+    
+    flex: 1;
+    border: 1px solid rgb(130, 124, 124);
+    border-radius: 20px;
+    height: 50%;
+    
+}
+
+.main-topic button {
+    width: 250px;
+    background: white;
+    height: 40px;
+    margin: 10px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+
+
+
+.maincontent-right{
+    flex: 2;
+   
+    border: 1px solid rgb(130, 124, 124);
+    border-radius: 20px;
+}

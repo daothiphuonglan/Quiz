@@ -1,0 +1,44 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(236, 240, 244);
+    border-bottom: 1px solid black;
+    align-items: center;
+    
+}
+.navbar-take{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.navbar-search input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.navbar-button button{
+    background: rgb(41, 203, 41);
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+.navbar-button button:hover{
+     background-color: greenyellow;
+}
+
+.navbar-contact {
+   
+}
+
+.fa,
+.io
+{
+    width: 40px;
+    height: 50px;
+    margin-right: 3px;
+}
